@@ -5,7 +5,7 @@ import './App.scss'
 function App() {
     return(
         <div>
-            <h1>Washing Machine Monitoring</h1>
+            <h1>react-js-template</h1>
         </div>
     )
 }
